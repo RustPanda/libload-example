@@ -11,4 +11,4 @@ ouroboros = "0.15.5"
 
 
 [workspace]
-members = ["mylib"]
+members = [".", "mylib"]
